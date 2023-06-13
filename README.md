@@ -2,6 +2,9 @@
 
 <p align="justify">Since coming to Canada (and before that), I have been keeping a tight budget and tracking all my expenses. In the past, I tried different apps and methods, but the one that worked for me was the old, good, and reliable spreadsheets. I've been using Google Sheets as my expense tracker (Google even gives you a template you can use), and for the last 8 months, I have logged every single transaction meticulously. I believe I have gathered enough data to mine valuable insights from my spending habits.</p>
 
+| Goals                                 | Results                                                                                                 |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------|
+|My primary objective for this project is to gain insights into my spending habits, optimize my expense allocation, and improve my financial awareness and planning. By meticulously tracking and analyzing my expenses, I aim to understand how my money is being spent, identify areas where I can potentially save or reallocate funds, and enhance my overall financial management skills. This objective will enable me to have better control over my personal budget, make informed financial decisions, and work towards long-term financial stability.|Approximately 52% of my total expenses are allocated to housing, particularly rent, underscoring its substantial influence on my overall financial situation. Food expenditure closely follows, accounting for roughly 18% of my total expenses. Notably, I have made significant savings in this category by reducing dining out, increasing home cooking, and implementing meal planning strategies. However, my personal and miscellaneous expenses have exceeded my planned budget by a significant margin, primarily due to unanticipated costs related to winter clothing. In order to avoid budget overruns, it is necessary to reassess this category and allocate additional funds accordingly.|
 
 <p align="center">
   <img src="images/Budget_Dashboard.png" style="height:537px; width:720px"/>   
@@ -68,3 +71,11 @@ Note: One easy method to know the ID of your spreadsheet is to look for it in th
 
 <p align="justify">In contrast, January emerged as the only month that showcased savings in our expenses. This favorable outcome was primarily due to the winter break period, which allowed us to reduce our expenditure. The break provided an opportunity to spend more time at home, thus reducing expenses associated with transportation, dining out, and entertainment.</p>
 
+## Conclusions
+
+Based on this analysis, I have drawn several conclusions:
+- Housing expenses, specifically rent, constitute the largest portion of my budget, accounting for approximately 52% of my total expenses. This emphasizes the significant impact of housing costs on my overall financial situation.
+- Food expenditure follows closely behind, representing around 18% of my total expenses. It is worth noting that I have achieved significant savings in this category, likely due to reducing eating out, increasing home cooking, and implementing meal planning strategies.
+- Personal and miscellaneous expenses have surpassed my planned budget by a significant margin. This can be attributed to unforeseen costs associated with winter clothing, as I had not adequately budgeted for the expenses related to adapting to a colder climate. Reevaluating this category and allocating more funds is necessary to avoid budget overruns.
+- Certain months, such as November and September, exhibited notable differences between the planned and actual expenses. These discrepancies can be attributed to various factors, including unpreparedness for winter-related costs and settling into a new country with associated unexpected expenses. Understanding these variations helps me anticipate and plan for similar situations in the future.
+- January emerged as the only month in which I achieved savings in my expenses. This favorable outcome can be attributed to the winter break period, which allowed me to reduce transportation, dining out, and entertainment expenses. Identifying such opportunities for savings and planning accordingly can help me maintain a more balanced budget throughout the year.
