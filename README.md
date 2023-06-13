@@ -1,3 +1,6 @@
+<a href="https://leopradilla.github.io/Portfolio/">Back to Portfolio</a>
+
+
 # Budget Breakdown: Analyzing My Personal Budget
 
 <p align="justify">Since coming to Canada (and before that), I have been keeping a tight budget and tracking all my expenses. In the past, I tried different apps and methods, but the one that worked for me was the old, good, and reliable spreadsheets. I've been using Google Sheets as my expense tracker (Google even gives you a template you can use), and for the last 8 months, I have logged every single transaction meticulously. I believe I have gathered enough data to mine valuable insights from my spending habits.</p>
@@ -82,3 +85,6 @@ Based on this analysis, I have drawn several conclusions:
 - Personal and miscellaneous expenses have surpassed my planned budget by a significant margin. This can be attributed to unforeseen costs associated with winter clothing, as I had not adequately budgeted for the expenses related to adapting to a colder climate. Reevaluating this category and allocating more funds is necessary to avoid budget overruns.
 - Certain months, such as November and September, exhibited notable differences between the planned and actual expenses. These discrepancies can be attributed to various factors, including unpreparedness for winter-related costs and settling into a new country with associated unexpected expenses. Understanding these variations helps me anticipate and plan for similar situations in the future.
 - January emerged as the only month in which I achieved savings in my expenses. This favorable outcome can be attributed to the winter break period, which allowed me to reduce transportation, dining out, and entertainment expenses. Identifying such opportunities for savings and planning accordingly can help me maintain a more balanced budget throughout the year.
+
+
+<a href="https://leopradilla.github.io/Portfolio/">Back to Portfolio</a>
