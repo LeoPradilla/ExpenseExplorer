@@ -12,7 +12,7 @@
   <img src="images/sheets_csv.png" style="height:182px; width:532px"/>   
 </p>
 <p align="center">
-    <em>Spreadsheet IDs</em>
+    <em>Expenses by Category</em>
 </p>
 
 Note: One easy method to know the ID of your spreadsheet is to look for it in the URL of your spreadsheet. For example, for this spreadsheet: `https://docs.google.com/spreadsheets/d/1XVqFHuHWjps-aq2VremvHPVY2G9MpD24U9s1mV3H_qU/edit#gid=0` the ID is `1XVqFHuHWjps-aq2VremvHPVY2G9MpD24U9s1mV3H_qU`
@@ -28,4 +28,26 @@ Note: One easy method to know the ID of your spreadsheet is to look for it in th
 
 <p align="justify">Additionally, I grouped similar categories together. For instance, I merged the categories "Internet" and "Cellphone" into a single category called "Phone and Internet". This consolidation approach was also applied to other relevant categories for improved organization and clarity in expense tracking.</p>
   
-  
+## Visualizing the Data
+
+<p align="center">
+  <img src="images/expenses_by_category.png" style="height:400px; width:600px"/>   
+</p>
+<p align="center">
+    <em>Spreadsheet IDs</em>
+</p>
+
+<p align="justify">Rent takes the largest share, accounting for approximately 52% of the total, emphasizing the significant impact of housing expenses on the overall budget. Food expenditure follows closely behind, representing around 18% of the total. Personal and miscellaneous expenses make up approximately 12.36% of the total. Phone and internet expenses occupy a smaller portion at around 3.73%, while transportation expenses represent approximately 3.83%. Other categories, including Colombia and streaming, have relatively smaller percentages, suggesting their minor contributions to the overall budget.</p>
+
+<p align="center">
+  <img src="images/difference_by_category.png" style="height:280px; width:700px"/>   
+</p>
+<p align="center">
+    <em>Expense Variance (CAD)</em>
+</p>
+
+<p align="justify">In the period of eight months, Personal and Misc. expenses surpassed the planned budget by a significant margin of $3517, this can easily explain by the fact we did not budget for the Winter clothing (shoes and winter jackets are expensive), beside that we needed to buy normal clothing and shoes. This category requires a reevaluation, and it is evident that a higher allocation of funds is necessary.</p>
+<p align="justify">On a positive note, the "Food" category, which includes dining out, showed significant savings. This reduction in expenses can be attributed to a decrease in eating out, an increase in home cooking, and the implementation of meal planning strategies.</p>
+
+
+
