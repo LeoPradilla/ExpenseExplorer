@@ -16,3 +16,16 @@
 </p>
 
 Note: One easy method to know the ID of your spreadsheet is to look for it in the URL of your spreadsheet. For example, for this spreadsheet: `https://docs.google.com/spreadsheets/d/1XVqFHuHWjps-aq2VremvHPVY2G9MpD24U9s1mV3H_qU/edit#gid=0` the ID is `1XVqFHuHWjps-aq2VremvHPVY2G9MpD24U9s1mV3H_qU`
+
+
+## EDA
+
+*Note: To ensure the privacy and security of my personal data, I have chosen not to disclose the precise values of my expenses in this project. Instead, I will introduce a deliberate amount of noise to the data as a means to obfuscate the actual values. By doing so, I aim to maintain the confidentiality of sensitive information while still enabling meaningful analysis. I believe this approach aligns with valid and understandable reasons for protecting personal data.*
+
+<p align="justify">Within the expenses, there are several one-time costs that occur sporadically, such as payments for college tuition and books. Additionally, there are occasional expenses, like those categorized under 'Furniture', which only appear in two months. While these categories still represent significant one-time expenses when they occur, they are infrequent and will be excluded from the analysis.</p>
+
+<p align="justify">The 'Personal' and 'Other' categories group together expenses that are related to purchasing personal items, such as clothing, shoes, and personal care and hygiene products. These expenses may include items like toiletries, makeup, hair care products, and other personal care items. The 'Personal' category might also include expenses like haircuts or electronics, whereas the 'Other' category could include items like books or musical instruments. Although these categories share similarities in nature, they are separated to provide greater clarity when analyzing and categorizing expenses.</p>
+
+<p align="justify">Additionally, I grouped similar categories together. For instance, I merged the categories "Internet" and "Cellphone" into a single category called "Phone and Internet". This consolidation approach was also applied to other relevant categories for improved organization and clarity in expense tracking.</p>
+  
+  
