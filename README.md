@@ -1,4 +1,4 @@
-# Budget Breakdown: Insights from a Detailed Analysis of My Personal Budget
+# Budget Breakdown: Analyzing My Personal Budget
 
 <p align="justify">Since coming to Canada (and before that), I have been keeping a tight budget and tracking all my expenses. In the past, I tried different apps and methods, but the one that worked for me was the old, good, and reliable spreadsheets. I've been using Google Sheets as my expense tracker (Google even gives you a template you can use), and for the last 8 months, I have logged every single transaction meticulously. I believe I have gathered enough data to mine valuable insights from my spending habits.</p>
 
