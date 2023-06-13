@@ -38,6 +38,9 @@ Note: One easy method to know the ID of your spreadsheet is to look for it in th
 <p align="justify">The 'Personal' and 'Other' categories group together expenses that are related to purchasing personal items, such as clothing, shoes, and personal care and hygiene products. These expenses may include items like toiletries, makeup, hair care products, and other personal care items. The 'Personal' category might also include expenses like haircuts or electronics, whereas the 'Other' category could include items like books or musical instruments. Although these categories share similarities in nature, they are separated to provide greater clarity when analyzing and categorizing expenses.</p>
 
 <p align="justify">Additionally, I grouped similar categories together. For instance, I merged the categories "Internet" and "Cellphone" into a single category called "Phone and Internet". This consolidation approach was also applied to other relevant categories for improved organization and clarity in expense tracking.</p>
+
+The code can be found in this <a href="https://github.com/LeoPradilla/PersonalBudget/blob/main/files/budget_analysis_final.ipynb">jupyter notebook.</a>
+  
   
 ## Visualizing the Data
 
