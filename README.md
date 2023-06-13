@@ -1,6 +1,13 @@
-# Peronal Budget
+# Personal Budget
 
 <p align="justify">Since coming to Canada (and before that), I have been keeping a tight budget and tracking all my expenses. In the past, I tried different apps and methods, but the one that worked for me was the old, good, and reliable spreadsheets. I've been using Google Sheets as my expense tracker (Google even gives you a template you can use), and for the last 8 months, I have logged every single transaction meticulously. I believe I have gathered enough data to mine valuable insights from my spending habits.</p>
+
+<p align="center">
+  <img src="images/Budget_Dashboard.png" style="height:615px; width:820px"/>   
+</p>
+
+Link to dashboad in <a href="https://public.tableau.com/views/PersonalBudget_16863483847390/BudgetDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link">Tableau Public</a>
+
 
 ## Collecting the Data
 
@@ -49,5 +56,12 @@ Note: One easy method to know the ID of your spreadsheet is to look for it in th
 <p align="justify">In the period of eight months, Personal and Misc. expenses surpassed the planned budget by a significant margin of $3517, this can easily explain by the fact we did not budget for the Winter clothing (shoes and winter jackets are expensive), beside that we needed to buy normal clothing and shoes. This category requires a reevaluation, and it is evident that a higher allocation of funds is necessary.</p>
 <p align="justify">On a positive note, the "Food" category, which includes dining out, showed significant savings. This reduction in expenses can be attributed to a decrease in eating out, an increase in home cooking, and the implementation of meal planning strategies.</p>
 
+<p align="center">
+  <img src="images/difference_by_month.png" style="height:350px; width:630px"/>   
+</p>
+<p align="center">
+    <em>Expense Variance (CAD)</em>
+</p>
 
+<p align="justify"></p>
 
